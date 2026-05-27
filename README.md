@@ -44,5 +44,10 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     Where, R1=P+Q+X
 
     R2 = minimum we will neglect it
+    
+## Output:
+<img width="1016" height="435" alt="{79354515-F380-4C4D-8A83-343738E9BF46}" src="https://github.com/user-attachments/assets/7bd11127-8576-4529-a447-69514edee309" />
+
 
   ## Result: 
+Thus unknown inductance was measured using the Maxwell Bridge balance condition.
